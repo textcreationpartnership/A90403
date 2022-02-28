@@ -1,0 +1,363 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The penitant traytor or the humble confession of a Devonshire gentleman, who was condemned for high treason, and executed at Tyborne for the same, in the raigne of King Henry the third, the ninteenth of July, 1267. You may sing this if you please. To the tune of, Fortune my foe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90403</idno>
+            <idno type="STC">Wing P1237</idno>
+            <idno type="STC">Thomason 669.f.11[35]</idno>
+            <idno type="STC">ESTC R210514</idno>
+            <idno type="EEBO-CITATION">99869303</idno>
+            <idno type="PROQUEST">99869303</idno>
+            <idno type="VID">162685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162685)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The penitant traytor or the humble confession of a Devonshire gentleman, who was condemned for high treason, and executed at Tyborne for the same, in the raigne of King Henry the third, the ninteenth of July, 1267. You may sing this if you please. To the tune of, Fortune my foe.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Verse - "Attend good Christian people to my story,"...</note>
+                  <note>Annotation on Thomason copy: "June 28 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Great Britain --  History --  Henry III, 1216-1272 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:162685:1" rendition="simple:additions"/>
+            <head>The penitant Traytor, or the humble Confeſſion of a Devonſhire Gentleman, who was condemned for high treaſon, and
+executed at Tyborne for the ſame, in the Raigne of King Henry the third, the ninteenth of <date>July, 1267.</date>
+            </head>
+            <byline>You may ſing this if you pleaſe. To the Tune of, Fortune my Foe.</byline>
+            <lg>
+               <l>ATtend good Chriſtian people to my Story,</l>
+               <l>A ſadder yet did never come before ye;</l>
+               <l>What I have beene, and am, and like to bee,</l>
+               <l>I will declare, whilſt you give eare to me.</l>
+            </lg>
+            <lg>
+               <l>Love, griefe, and zeale, doth make me ſing this Dittie,</l>
+               <l>To warne my Brethren of each cloſe Commitie,</l>
+               <l>That each of them learne like a good Diſciple,</l>
+               <l>To ſhun fowle Treaſon, and the Tree that's triple.</l>
+            </lg>
+            <lg>
+               <l>Long time I liv'd i' th' Country next to <hi>Cornwall,</hi>
+               </l>
+               <l>And there my Children were both bred and borne all,</l>
+               <l>Great was my credit, (as my debts did ſpeake,)</l>
+               <l>And now Ile ſhew you why my neck muſt breake.</l>
+            </lg>
+            <lg>
+               <l>A Parliament was called in <hi>November.</hi>
+               </l>
+               <l>I, for the Commons was cryd up a Member,</l>
+               <l>With coyne, and cogging, I got peoples voyces,</l>
+               <l>Whereby I was elected with loud noyſes.</l>
+            </lg>
+            <lg>
+               <l>My wicked Life I do lament with Teares,</l>
+               <l>I was in debt quite over Head and Eares,</l>
+               <l>But when I purchaſt a Committe Chaire,</l>
+               <l>My broken State I quickly did repaire.</l>
+            </lg>
+            <lg>
+               <l>I had the Art to threaten or inſinuate,</l>
+               <l>And as I pleas'd) encreaſe faults or extinuate:</l>
+               <l>My frowne or ſmile, was forcible and mighty,</l>
+               <l>As cold as <hi>Ice</hi>; or hot as <hi>Aquavitie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I got ſome two and twenty of my Faction,</l>
+               <l>(All witty Members, and all men of Action,)</l>
+               <l>We (as we pleas'd) made all our Brethren Widgeons,</l>
+               <l>We wink'd at Tumults, and at ſtrange Religions.</l>
+            </lg>
+            <lg>
+               <l>For though (by tale) we ſat above foure hundred,</l>
+               <l>Yet I my ſelfe, was for the firſt part numbred:</l>
+               <l>Moſt of the reſt were crowned men of <hi>Goram,</hi>
+               </l>
+               <l>And I was almoſt <hi>Dominas Factotum.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Faire ſéeming Piety I made my Mantle,</l>
+               <l>But of good Conſcience I ne're had one cantle:</l>
+               <l>My fellow Knaves, and I, conglutinated</l>
+               <l>So faſt, we ne're thought to be ſeperated.</l>
+            </lg>
+            <lg>
+               <l>Thus by my Faction the whole Houſe was ſway'd,</l>
+               <l>But (moſt) to me the people flock'd for ayd:</l>
+               <l>I promis'd eaſe for all their griefes moſt troubleſome,</l>
+               <l>Yet rack'd them more then ten times twice the doubleſome.</l>
+            </lg>
+            <lg>
+               <l>I was in hope my raigne ſhould be perpetuall,</l>
+               <l>Which made me proud, and very bold to cheat you all,</l>
+               <l>The Kingdome groan'd, and under ſlavery lingers,</l>
+               <l>Whilſt like a cunning Cooke I lick'd my Fingers.</l>
+            </lg>
+            <lg>
+               <l>Thoſe who were griev'd, I gravely did aduiſe,</l>
+               <l>They ſhould Petitions bring in humble wiſe:</l>
+               <l>Which I did frame my ſelfe, and thus did rooke 'um,</l>
+               <l>They paid me when I gave, and when I tooke 'um.</l>
+            </lg>
+            <lg>
+               <l>The King himſelfe with ſlanders I diſgraced,</l>
+               <l>His faithfull Servants, from him I diſplaced:</l>
+               <l>Taxes, on taxes, on the people paſſes,</l>
+               <l>And they did beare the burthens like tame Aſſes.</l>
+               <l>I purchaſt Land for Plough and Paſture Ground,</l>
+               <l>As much as coſt me nere ten thouſand pound:</l>
+               <l>I waxed rich, my State was mighty made,</l>
+               <l>Which proves a Chaire-man was a thriving Trade.</l>
+            </lg>
+            <lg>
+               <l>Thus did I riſe, when better men did fall,</l>
+               <l>My Wealth encreac'd, I got the Devill and all,</l>
+               <l>Fooles brought me gold, and plate, in hugger-mugger,</l>
+               <l>Beſides eight hundred pounds worth of loafe ſugger.</l>
+            </lg>
+            <lg>
+               <l>The twentyeth part, the wéekly Faſting Dayes,</l>
+               <l>The feazement for the <hi>Sots</hi> and Subſidyes:</l>
+               <l>The wéekly ſeazements for the Trained Bands,</l>
+               <l>The Crownes Revenue, and the Churches Lands.</l>
+            </lg>
+            <lg>
+               <l>The Contributions, Sequeſtrations, Plunder,</l>
+               <l>The ſale of Offices,<note place="margin">The Queen was then a <hi>French-wo<g ref="char:EOLhyphen"/>man</hi>
+ſhe was Daughter to the Earle of <hi>Provence,</hi> in the 20 yeare of the Kings raigne. <hi>Stow,</hi> Page 184.</note> inforc'd Loanes, 'tis wonder:</l>
+               <l>This all is true, as true Records doth ſing,</l>
+               <l>When as th<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd <hi>Henry</hi> was this Kingdomes King.</l>
+            </lg>
+            <lg>
+               <l>Thus I gain'd much, and by my Money-Pole,</l>
+               <l>And ſomething like Excize, theſe made me whole,</l>
+               <l>My Children Portions too, with much content,</l>
+               <l>I playd in State my Act of Parliament.</l>
+            </lg>
+            <lg>
+               <l>And leaſt my Plots ſhould after be unmask'd,</l>
+               <l>And how I got ſuch wealth might chance be ask'd:</l>
+               <l>I caſt about how I might gaine ſuch power,</l>
+               <l>As might from future juſtice me ſecure.</l>
+            </lg>
+            <lg>
+               <l>Then firſt I labour'd to deveſt the Crowne.</l>
+               <l>Of all Prerogatives and to bring them downe,</l>
+               <l>Firſt to both Houſes, then but one, ſhonld have it,</l>
+               <l>Five Members next, and laſt my ſelfe would crave it.</l>
+            </lg>
+            <lg>
+               <l>But I did know the State would not admit,</l>
+               <l>Such c<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ange unleſſe the Church did uſher it:</l>
+               <l>I left the old Religion for aduantage,</l>
+               <l>Endeavouring to erect on which did want age.</l>
+            </lg>
+            <lg>
+               <l>Which when the learned Levites did withſtand,</l>
+               <l>Regarding Gods word more then my command;)</l>
+               <l>Such I ſuppreſt, and made (for which I woe am,)</l>
+               <l>The baſeſt people Prieſts, like <hi>Jeroboam.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then each Profeſsion ſent out Preachers moe,</l>
+               <l>Then both the two Univerſities could doe:</l>
+               <l>T'handle a Text, the Good wifes fingers itches,</l>
+               <l>She dares preach with her Husband for the britches.</l>
+            </lg>
+            <lg>
+               <l>I firſt committed ſacrilegious hanſells,</l>
+               <l>I rob'd both Chappell, Church and Chancell,</l>
+               <l>I ſaid Gods Table was a Popiſh Alter,</l>
+               <l>For which you ſée, that my reward's a Halter.</l>
+            </lg>
+            <lg>
+               <l>By this new godlineſſe, but few did gaine,</l>
+               <l>The reſt for want of Trading did complaine,</l>
+               <l>I told them 'twas a wicked Counſellor's plot,</l>
+               <l>And till his head went off, their wares would not.</l>
+            </lg>
+            <lg>
+               <l>This great mans guilt was Loyallty and Wiſdome,</l>
+               <l>Which made me caſt about me to worke his doome:</l>
+               <l>The Sword of <hi>Juſtice</hi> was too ſhort to do't,</l>
+               <l>Ten thouſand Clubs muſt therefore inch it out.</l>
+            </lg>
+            <lg>
+               <l>He thus knock'd downe, ſome others (for like crime,)</l>
+               <l>Were ſent to Priſon, ſome eſcap'd in time:</l>
+               <l>Thus Law and Equity, in awe were kéept here,</l>
+               <l>And Clubs were taught how to controule the Scepter.</l>
+            </lg>
+            <lg>
+               <l>We tooke from th' upper Houſe Votes five times five,</l>
+               <l>And they aym'd at the Kings Voyce Negative,</l>
+               <l>Which to effect, we did an Order make,</l>
+               <l>That what he would not give, our ſelves would take.</l>
+            </lg>
+            <lg>
+               <l>Then we Petition'd that the Forts and Towers,</l>
+               <l>And all the ſtrength o'th' Kingdome might be ours,</l>
+               <l>This was to ſave the King from forraigne dangers,</l>
+               <l>As if h' had better fall by us then Strangers.</l>
+            </lg>
+            <lg>
+               <l>Whilſt he denyes, they legally are ſeiz'd on,</l>
+               <l>
+                  <hi>By a Law call'd</hi> Reſolu'd upon the Queſtion:</l>
+               <l>But ſtill his chiefe ſtrength was above our Arts,</l>
+               <l>His righteous Cauſe, and's loyall Subjects Hearts.</l>
+            </lg>
+            <lg>
+               <l>The King at <hi>Eveſham</hi> gave the Rebells battle,</l>
+               <l>Whereas he made Bones in their Skins to rattle:</l>
+               <l>
+                  <hi>Leiceſter</hi> was ſlaine,<note place="margin">This Battle was fought at <hi>Evesham</hi> in <hi>Worceſ<g ref="char:EOLhyphen"/>ter</hi>-ſhire, on Fryday the 5 of <hi>Auguſt 1265. Stow,</hi> page 195.</note> who was their Generall,</l>
+               <l>And ſixtéene Lords with him likewiſe did fall.</l>
+            </lg>
+            <lg>
+               <l>Thus was their Army all to ſhatters ſhaken,</l>
+               <l>Ten thouſand men ſlaine, and as many taken,</l>
+               <l>Some hundreds ſuffered puniſhment condignant,</l>
+               <l>For being as I am a foule Malignant.</l>
+            </lg>
+            <lg>
+               <l>Thus did the whéele of Fortune turne quite round,</l>
+               <l>And my miſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>déeds my Conſcience déepe doth wound</l>
+               <l>I had bin better to have liv'd in beggery,</l>
+               <l>Then thus to fall into the hands of <hi>Gregory.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh <hi>Tyborne,</hi>
+                  <note place="margin">There was a Wag-halter living in thoſe times whoſe name was <hi>Gregorie,</hi> Hen. Moun<g ref="char:EOLhyphen"/>mouth,
+page 2000.</note> 
+                  <hi>Tyborne,</hi> oh thou ſad Triangle,</l>
+               <l>A Viler weight ne're under thée did dangle:</l>
+               <l>Sée here I'm come, at laſt with Hempe ſo new,</l>
+               <l>To give thée what was (long before) thy due.</l>
+            </lg>
+            <lg>
+               <l>How would I bleſſe thée, couldſt thou take away,</l>
+               <l>My Life and Infamie, both in one day:</l>
+               <l>But this in Ballads, will ſurvive I know,</l>
+               <l>Sung to that ſolemne Tune, <hi>Fortune my Foe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then marke good Chriſtian people and take héed,</l>
+               <l>Vſe not Religion for an upper Wéed:</l>
+               <l>Serue God ſincerely, touch not his Anoynted,</l>
+               <l>And then your Necks ſhall never be diſ-joynted.</l>
+            </lg>
+            <lg>
+               <l>God bleſſe the King, the Quéene, and all their Children,</l>
+               <l>(And pardon me, what I 'gainſt them have ill done,)</l>
+               <l>May one of that brave Race ſtill rule this Nation,</l>
+               <l>So I beſeech you ſing the Lamentation.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
